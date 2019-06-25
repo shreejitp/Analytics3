@@ -1,4 +1,4 @@
-# Analytics3
+# Analyzing News Feeds for Microsoft 
 Deduplication/Entity_Recognition/LDA/Topic_Taxonomy
 
 This project covers the following 
